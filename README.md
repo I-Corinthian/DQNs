@@ -1,2 +1,2 @@
-# DQNs-
-deep q learning 
+# DQNs
+deep q learning based projects 
